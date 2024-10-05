@@ -1,6 +1,6 @@
 <img align="right" width="250" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=5000FF&width=400&lines=👩🏽‍💻Hi+there,+I'm+Nicolas+Veloso;👩🏽‍💻Oi,)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=5000FF&width=400&lines=👩🏽‍💻Hi+there,+I'm+Nicolas+Veloso;)](https://git.io/typing-svg)
 
 <ul>
   
